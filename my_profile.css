@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+body{
+  font-family: 'Indie Flower', cursive, Arial, sans-serif;
+  background: url('https://www.asuitthatfits.com/shop/images/Style_Guide/colours/large/RTallwool-100218-2.jpg');
+}
+
+h1{
+ text-align: center;
+ color: white;
+
+}
+p{
+  color: green;
+}
+h2{
+  text-decoration: underline;
+  color: white;
+  margin-left: 20px;
+}
+div{
+  width:500px;
+  padding-left: 900px;
+}
+img{
+  margin: 30px;
+}
